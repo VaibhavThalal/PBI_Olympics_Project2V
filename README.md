@@ -2,7 +2,7 @@
 
 This repository contains a dynamic Power BI dashboard showcasing comprehensive data analysis and visualization of Olympic Games statistics. It offers an interactive platform to explore historical data, highlighting top-performing countries, athletes, gender distribution of medals, yearly trends, and various insights across sports disciplines.
 
-# 📊 Key Features:
+## 📊 Key Features:
 
 **Top Countries by Medals:** Visual representation showcasing countries with the highest medal counts across multiple Olympic editions.
 
@@ -16,13 +16,16 @@ This repository contains a dynamic Power BI dashboard showcasing comprehensive d
 
 **Distribution of Medals by Age:** Insights into age group analysis concerning medal winners, highlighting age-related trends.
 
-# 🔍 Data Sources:
+## 🔍 Data Sources:
 
 The dashboard utilizes authenticated historical Olympic Games data from the International Olympic Committee (IOC) and other verified repositories, ensuring reliability and accuracy.
 
-#🚀 How to Use:
+## 🚀 How to Use:
 
-Clone or download the repository.
-Open the Power BI file using Power BI Desktop.
-Navigate through various tabs to explore different Olympic insights.
-Customize the dashboard by adding filters or additional visualizations as per specific interests.
+- Clone or download the repository.
+  
+- Open the Power BI file using Power BI Desktop.
+
+- Navigate through various tabs to explore different Olympic insights.
+
+- Customize the dashboard by adding filters or additional visualizations as per specific interests.
