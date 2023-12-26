@@ -22,7 +22,7 @@ This repository contains a dynamic Power BI dashboard showcasing comprehensive d
 
 The dashboard utilizes authenticated historical Olympic Games data from the International Olympic Committee (IOC) and other verified repositories, ensuring reliability and accuracy.
 
-![Dataset](OlympicsDataset.xlsx)
+[Dataset](Olympics_Dataset.xlsx)
 
 
 ## 🚀 How to Use:
