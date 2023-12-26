@@ -4,17 +4,17 @@ This repository contains a dynamic Power BI dashboard showcasing comprehensive d
 
 ## 📊 Key Features:
 
-**Top Countries by Medals:** Visual representation showcasing countries with the highest medal counts across multiple Olympic editions.
+- **Top Countries by Medals:**  Visual representation showcasing countries with the highest medal counts across multiple Olympic editions.
 
-**Top Players:** Insights into standout athletes based on their medal achievements and performances.
+- **Top Players:**  Insights into standout athletes based on their medal achievements and performances.
 
-**Gender Distribution of Medals:** Analysis depicting the distribution of medals among male and female athletes.
+- **Gender Distribution of Medals:** Analysis depicting the distribution of medals among male and female athletes.
 
-**Yearly Distribution of Medals by Gender:** Trends showcasing the gender distribution of medals over different Olympic years.
+- **Yearly Distribution of Medals by Gender:** Trends showcasing the gender distribution of medals over different Olympic years.
 
-**Distribution by Type of Sport:** Visualization of medal distribution across diverse sports categories.
+- **Distribution by Type of Sport:** Visualization of medal distribution across diverse sports categories.
 
-**Distribution of Medals by Age:** Insights into age group analysis concerning medal winners, highlighting age-related trends.
+- **Distribution of Medals by Age:** Insights into age group analysis concerning medal winners, highlighting age-related trends.
 
 ## 🔍 Data Sources:
 
